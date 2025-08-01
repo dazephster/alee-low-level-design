@@ -1,0 +1,54 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+# The packages folder can be ignored if you restore packages during build
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+# Uncomment if using global NuGet cache folders
+# %userprofile%\.nuget\packages
+
+# Rider / JetBrains
+.idea/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Backup & temp files
+*.bak
+*.tmp
+*.temp
+
+# Others
+*.dbmdl
+*.vsidx
+*.vssscc
+*.orig
+*.config.user
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OneDrive sync files
+*.tmp
+~$*
